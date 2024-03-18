@@ -44,6 +44,9 @@ body {
   section #inicio{
     text-align: center;
   }
+  section #cardapio{
+    text-align: center;
+  }
   .card {
     border: 1px solid #ccc;
     border-radius: 5px;
